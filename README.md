@@ -19,3 +19,6 @@ Ye project ek pizza shop ki website hai jisme users online pizza order kar sakte
 - Express.js
 - MongoDB
 
+## Autohor of this project 
+Rohit Raghunath Bhoye
+
