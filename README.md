@@ -5,7 +5,7 @@
 2.in the first Terminal type "yarn run dev"
 3. in secound terminal type " yarn watch"
 
-You Need To Install The MongoDb Data Base for this project
+You Need To Install The MongoDb Data Base for this project.
 You Need To Create The Databse Name As A "pizza_shop"
 
 ## Description
